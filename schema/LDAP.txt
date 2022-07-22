@@ -37,7 +37,7 @@
 #          - Changed references from terena.org to terena.org.
 # 20061125 - Changed schacPersonalPosition and schacUserStaus format
 #            and samples
-# 20061017 - Delete shacUUID attribute (TF-EMC2 M�laga)
+# 20061017 - Delete shacUUID attribute (TF-EMC2 Malaga)
 # 20060928 - Changed schacHomeOrganization syntax OID
 #          - New definition of shacUUID attribute
 # 20060504 - 1.2.0 
@@ -51,9 +51,9 @@
 # 20051122 - Initial release
 #
 
-objectIdentifier TERENA 1.3.6.1.4.1.25178 
+objectIdentifier GEANT 1.3.6.1.4.1.25178
 
-objectIdentifier schac TERENA:1
+objectIdentifier schac GEANT:1
 objectIdentifier schacExperimental schac:0
 objectIdentifier schacObjectClass schac:1
 objectIdentifier schacAttributeType schac:2
