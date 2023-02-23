@@ -16,7 +16,7 @@ olcAttributeTypes: ( schacAttributeType:1
  SYNTAX 1.3.6.1.4.1.1466.115.121.1.15 )
 olcAttributeTypes: ( schacAttributeType:2 
  NAME 'schacGender' 
- DESC 'Deprecated as of SCHAC 1.6.0 ' 
+ DESC 'Deprecated as of SCHAC 1.6.0' 
  EQUALITY integerMatch 
  SINGLE-VALUE 
  SYNTAX 1.3.6.1.4.1.1466.115.121.1.27 )
